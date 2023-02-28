@@ -11,4 +11,5 @@ In this project we will use to warehouse two simple warehouse services both crat
  
  
       
-      Full blog [here]( https://medium.com/@bantyder/how-to-use-masstransit-8-0-13-rabbitmq-with-aspnetcore-7e199998b92d )
+      Full blog [here](https://medium.com/@bantyder/how-to-use-masstransit-8-0-13-rabbitmq-with-aspnetcore-7e199998b92d)
+        
