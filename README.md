@@ -10,6 +10,5 @@ In this project we will use two simple warehouse services that are crated using 
            Responsible for handling stock staus, reordering level ...etc and will be used as consumer
  
  
-      
-      Full blog [here](https://medium.com/@bantyder/how-to-use-masstransit-8-0-13-rabbitmq-with-aspnetcore-7e199998b92d)
-        
+    
+[Full blog found here](https://medium.com/@bantyder/how-to-use-masstransit-8-0-13-rabbitmq-with-aspnetcore-7e199998b92d)
